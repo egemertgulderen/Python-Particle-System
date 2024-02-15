@@ -7,7 +7,7 @@ Pixel Sand is a simple particle simulation game developed in Python using the Py
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pixel-sand.git
+   git clone https://github.com/egemertgulderen/Python-Particle-System.git
    ```
 
 2. **Navigate to the project directory:**
