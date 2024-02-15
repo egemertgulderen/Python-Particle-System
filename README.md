@@ -1,41 +1,51 @@
-# Python-Particle-System
-
-Particle system implementation made with PyGame
-Pixel Sand
+## Pixel Sand
 
 Pixel Sand is a simple particle simulation game developed in Python using the Pygame library.
 
-Installation
+## Installation
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/pixel-sand.git
-Navigate to the project directory:
-bash
-Copy code
-cd pixel-sand
-Create a virtual environment (optional but recommended):
-bash
-Copy code
-python3 -m venv venv
-Activate the virtual environment:
-On Windows:
-bash
-Copy code
-venv\Scripts\activate
-On macOS and Linux:
-bash
-Copy code
-source venv/bin/activate
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/pixel-sand.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd pixel-sand
+   ```
+
+3. **Create a virtual environment (optional but recommended):**
+
+   ```bash
+   python3 -m venv venv
+   ```
+
+4. **Activate the virtual environment:**
+
+   - **On Windows:**
+
+   ```bash
+   venv\Scripts\activate
+   ```
+
+   - **On macOS and Linux:**
+
+   ```bash
+   source venv/bin/activate
+   ```
+
+5. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
 
 To run the Pixel Sand simulation, execute the following command:
 
-bash
-Copy code
+```bash
 python main.py
+```
